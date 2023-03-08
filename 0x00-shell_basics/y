@@ -1,0 +1,13 @@
+Loading /etc/emacs/site-start.d/00debian.el (source)...done
+For information about GNU Emacs and the GNU system, type C-h C-a.
+Setting up indent for shell type bash
+Indentation variables are now local.
+Indentation setup for shell type bash
+Mark set
+delete-forward-char: End of buffer [10 times]
+Auto-saving...
+delete-forward-char: End of buffer [25 times]
+delete-backward-char: Beginning of buffer [28 times]
+Mark set
+funcall-interactively: End of buffer [3 times]
+funcall-interactively: End of buffer
