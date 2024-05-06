@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 #printing a test 10X using while loop
 
 counter=0;
