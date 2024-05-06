@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Display all the processes
+#	for all users
+
+ps -auxf
