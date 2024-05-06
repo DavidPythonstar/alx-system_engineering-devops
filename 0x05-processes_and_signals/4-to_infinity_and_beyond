@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Displays to infinty and beyond untill its interupted by user
+
+while true
+do
+echo "To infinity and beyond"
+sleep 2
+done
